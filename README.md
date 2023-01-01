@@ -1,4 +1,4 @@
-In this project, I aim to use the KNearestNeighbor Regressor to determine the W/L percentage of NBA teams at the end of the season based on stats found on https://www.basketball-reference.com/.
+In this project, I aim to use the KNearestNeighbor Regressor to determine the W/L percentage of NBA teams at the end of the season based on team ranking stats found on https://www.basketball-reference.com/.
 Data from the 2002-2003 season until the 2021-2022 season was used. Predictions were made for the 2022-2023 season for the winning percentage and record for all teams.
 The following steps were done:
 1) The main data was imported and feature engineering was done to ensure that the data could be utilized by the algorithm.
